@@ -1,5 +1,5 @@
-stock_api = "DNP2LEYF4ENPGBN4"
-news_api = "8e9c3d82bb914c5487d5a151d9c7901b"
+stock_api = "asdasdasdasdasdasdas"
+news_api = "asdasdasdasdasdasd"
 
 COMPANY_NAME = "Tesla Inc"
 NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
